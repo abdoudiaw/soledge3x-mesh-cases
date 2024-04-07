@@ -1,2 +1,4 @@
 # soledge3x-mesh-cases
-This repository contains a collection of mesh case files generated for use with the SOLEDGE3X fluid simulation code.
+This repository has a collection of mesh case files for SOLEDGE3X generated using the `mesh_generator` tool.
+
+You can visit [ITER's software repository](https://git.iter.org/my.policy) to access the SOLEDGE3X code and the `mesh_generator.`
